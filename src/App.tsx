@@ -2,9 +2,11 @@ import Header from './Elements/Header'
 import Body from './Elements/Body'
 import Footer from './Elements/Footer'
 
+import './App.scss'
+
 function App() {
     return (
-        <div className='flex flex-col h-[100dvh] bg-black'>
+        <div className='app'>
             <Header />
             <Body />
             <Footer />

@@ -1,0 +1,13 @@
+div.app {
+    div.body {
+        @apply flex-grow flex items-center justify-center flex-col;
+
+        h1 {
+            @apply text-5xl text-orange-400 mb-4;
+        }
+
+        p {
+            @apply text-white text-2xl mt-4;
+        }
+    }
+}
