@@ -1,10 +1,7 @@
-import './Header.scss'
+import './Header.scss';
 
 function Header() {
-    return (
-        <header>
-        </header>
-    )
+    return <header></header>;
 }
 
-export default Header
+export default Header;
