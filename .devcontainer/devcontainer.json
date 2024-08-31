@@ -1,0 +1,5 @@
+{
+    "name": "NodeJS-saticoy-svc-fe-landing-page",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:22-bookworm",
+    "postCreateCommand": "npm install"
+}
